@@ -1,22 +1,10 @@
 /* By default */
 
-    *{
-        margin: 0;
-        padding: 0;
-
-        color: rgb(218, 218, 218);
-    }
-    ul{
-        list-style: none;
-    }
-    a{
-        text-decoration: none;
-    }
 
 /* Customize Text*/
 
     h1{
-        font-size: 2em;
+        font-size: 2.5em;
         font-family: "Russo One", sans-serif;
         padding: 5px 0 0 70px;
         color: rgb(152, 190, 165);
@@ -24,7 +12,21 @@
     h2{
         
     }
+    h3{
 
+    }
+    h4{
+
+    }
+    h5{
+        
+    }
+    a{
+        font-size: 1.2em;
+        text-decoration: none;
+        font-family: "Russo One", sans-serif;
+        letter-spacing: 2px;
+    }
 
 
 
